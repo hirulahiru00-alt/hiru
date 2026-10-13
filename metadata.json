@@ -1,0 +1,8 @@
+{
+  "name": "Remix Unknown Travels \u0026 Tours | Unknown Studio",
+  "description": "Discover beautiful places, unique experiences and unforgettable journeys in Sri Lanka with Unknown Travels \u0026 Tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
